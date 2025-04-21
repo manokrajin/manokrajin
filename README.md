@@ -4,7 +4,7 @@ Hi, i'm Mahran Radifan Zhafir
 
 <div align="center"><h3>Undergraduate Universitas Pertamina</h3></div>
 
-<p>&emsp;I'm a front-end developer with a passion for building intuitive and interactive user experiences using React JS. With a strong background in HTML, CSS, and JavaScript, I have a proven track record of delivering high-quality projects on time and exceeding expectations. I am always learning and staying up-to-date with the latest technologies and best practices to ensure that my work is of the highest standard. In my spare time, you can find me contributing to open-source projects or tinkering with new tools and frameworks. I am excited to be a part of the vibrant developer community and am always open to new opportunities to collaborate and learn from others.</p>
+<p>&emsp;I'm a front-end developer with a passion for building intuitive and interactive user experiences using React JS and Flutter. With a strong background in HTML, CSS, and JavaScript, I have a proven track record of delivering high-quality projects on time and exceeding expectations. I am always learning and staying up-to-date with the latest technologies and best practices to ensure that my work is of the highest standard. In my spare time, you can find me contributing to open-source projects or tinkering with new tools and frameworks. I am excited to be a part of the vibrant developer community and am always open to new opportunities to collaborate and learn from others.</p>
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning React
